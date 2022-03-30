@@ -4,6 +4,7 @@ description: Lecture slides on problem of colloid stability and inter-Debye-laye
   interaction.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/74f18eceebc03ef0de28b414985b774a_electrokin_lec7.pdf
 file_type: application/pdf
+parent_uid: 4b48a137-72ee-352a-11db-7f92942d5c97
 resourcetype: Document
 title: electrokin_lec7.pdf
 uid: 74f18ece-ebc0-3ef0-de28-b414985b774a

@@ -4,6 +4,7 @@ description: Lecture slides on enduced dipole (from part 2), C-M factor, and die
   manipulation of cells.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/20-330j-fields-forces-and-flows-in-biological-systems-spring-2007/9ff9c56b634519abad3051083283ca64_electrokin_lec6.pdf
 file_type: application/pdf
+parent_uid: 4b48a137-72ee-352a-11db-7f92942d5c97
 resourcetype: Document
 title: electrokin_lec6.pdf
 uid: 9ff9c56b-6345-19ab-ad30-51083283ca64
